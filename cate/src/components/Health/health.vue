@@ -1,6 +1,6 @@
 <template>
-    <div class="recommand">
-       推荐菜谱也
+    <div class="health">
+       health也
     </div>
 </template> 
 <script>
@@ -9,7 +9,7 @@
     }
 </script>
 <style lang="less" scoped>
-    .recommand{
+    .health{
         z-index: 2;
         position: fixed;
         top:0;

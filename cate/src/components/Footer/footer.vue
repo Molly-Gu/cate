@@ -23,8 +23,11 @@
 <style lang="less" scoped>
 @import '../../../style/index.less';
    .footer{
+       position: fixed;
+       bottom:0;
+       height: 1rem;
        ul{
-            width: 100%;
+           width: 100%;
            position:fixed;
            bottom: 0;
             li{

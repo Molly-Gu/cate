@@ -1,15 +1,11 @@
 <template>
-    <div class="recommand">
-       推荐菜谱也
-    </div>
-</template> 
+    <div class="pick">pick</div>
+</template>
 <script>
-    export default{
-       
-    }
+    
 </script>
-<style lang="less" scoped>
-    .recommand{
+<style lang='less' scoped>
+    .pick{
         z-index: 2;
         position: fixed;
         top:0;
